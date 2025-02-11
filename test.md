@@ -4,7 +4,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-      <img src="./api.png" style="transform: rotate(180deg);"/>
+      <img src="./api_회전.png"/>
   </body>
 </html>
 
